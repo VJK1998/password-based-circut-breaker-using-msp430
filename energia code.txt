@@ -1,5 +1,5 @@
 //you can change the paswords in the code by changing the if conditions
-//done by KPK,VJK,VGU,VP
+//done by Venkatesh Prasad K.Pavan Kalyan,V.Jaswanth Krishna,Venkatesh G U
 #include <Keypad.h>
 
 int a=0,b=0,c=0,d=0;
