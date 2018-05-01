@@ -49,20 +49,7 @@ Serial.println("press 3rd key");
     }while(!key3);
   Serial.println(key3);
   
- /* 
-  while(key1)
-  {
-    key2=keypad.getKey();
-    Serial.println(key2);
-    while(key2)
-    {
-      key3=keypad.getKey();
-      Serial.println(key3);
-      break;
-    }
-    break;
-  }
-/*  delay(1000);
+  delay(1000);
   Serial.println(key1);
   key2 = keypad.getKey();
   delay(1000);
