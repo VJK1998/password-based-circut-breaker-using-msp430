@@ -1,4 +1,7 @@
+//you can change the paswords in the code by changing the if conditions
+//done by KPK,VJK,VGU,VP
 #include <Keypad.h>
+
 int a=0,b=0,c=0,d=0;
 const byte ROWS = 3; //four rows
 const byte COLS = 3; //four columns
